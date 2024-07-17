@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLIfeCycle</string>
+    <string name="button">Button</string>
+    <string name="activitylifecycle">ActivityLIfeCycle!</string>
+</resources>
